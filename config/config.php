@@ -9,7 +9,7 @@ define('DB_USER', 'root');
 define('DB_PASS', 'qwerty101');
 
  
-define('BASEPATH', 'http://localhost/test_task/php-mvc-example/');
+define('BASEPATH', 'http://localhost/test_task/task_board/');
 define('MODELPATH','models/');
 define('CONTROLLERPATH','controllers/');
 define('VIEWPATH','views/');
